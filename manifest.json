@@ -1,0 +1,25 @@
+{
+  "name": "업비트 트레이더",
+  "short_name": "업비트",
+  "description": "업비트 자산 조회 & 자동매매",
+  "start_url": "/Ap1/",
+  "scope": "/Ap1/",
+  "display": "standalone",
+  "background_color": "#060c14",
+  "theme_color": "#00c8ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
